@@ -30,7 +30,8 @@
 
 ![Customtool1_SS](https://github.com/user-attachments/assets/3a95b0b9-cb5f-4bdb-b964-705032df9551)
 
-![Customtool2](https://github.com/user-attachments/assets/762ab7fa-0102-415e-88b7-38b6887fa835)
+![Customtool2_SS](https://github.com/user-attachments/assets/d850a342-02f3-4c24-8044-e68a741d04a7)
+
 
 
 **5) In the previous step, we created a retriever. With the help of the retriever, we would create a tool to search and retrieve documents with the help of "create_retriever_tool".**
