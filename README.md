@@ -37,7 +37,8 @@
 **5) In the previous step, we created a retriever. With the help of the retriever, we would create a tool to search and retrieve documents with the help of "create_retriever_tool".**
 
 
-![Create_retriever_toolSS](https://github.com/user-attachments/assets/9c322c4d-374c-4461-86f0-1e3ddec4fdcc)
+![Create_retriever_toolSS](https://github.com/user-attachments/assets/65d70816-9e91-4b50-b767-c67f69534323)
+
 
 
 **6) Thirdly, again we will create a wrapper on top of Arxiv to interact with the Arxiv webpage. Similar to Wikipedia, for Arxiv tool Langchain provides APIWrapper.**
